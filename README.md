@@ -5,12 +5,14 @@ This is a handcrafted list of classic retro games for you challenge your childre
   * [The Rules](#rules)
   * [The Games](#games)
 	  * [Arcade](#arcade)
-	  * [N64](#n64)
-	  * [NES](#nes)
-	  * [PC](#pc)
-	  * [SNES](#snes)
-	  * [Sega Genesis](#genesis)
-	  * [Sega Dreamcast](#dreamcast)
+	  * [N64](#nintendo-64-n64)
+	  * [NES](#nintendo-entertainment-system-nes)
+	  * [Gameboy](#nintendo-gameboy)
+	  * [PC](#personal-computer-pc)
+	  * [SNES](#super-nintendo-entertainment-system-snes)
+	  * [Genesis](#sega-genesis)
+	  * [Dreamcast](#sega-dreamcast)
+	  * [Playstation](#sony-playstation)
 * [Contributing](#contributing)
 
 #The Rules
@@ -61,7 +63,10 @@ This is a handcrafted list of classic retro games for you challenge your childre
 - Final Fantasy 4
 - Super Mario World
 - Super Mario RPG
-			
+
+##Sega Dreamcast
+* Skies of Arcadia
+
 ##Sega Genesis		
 * Ecco the Dolphin
 * Shining Force 2
