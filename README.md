@@ -22,6 +22,7 @@ This is a handcrafted list of classic retro games for you challenge your childre
 #The Games
 
 ##Arcade
+* [Teenage Mutant Ninja Turtles](http://en.wikipedia.org/wiki/Teenage_Mutant_Ninja_Turtles_(arcade_game))
 
 ##Nintendo 64 (N64)		
 * [The Legend of Zelda: Occarina of Time](http://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Ocarina_of_Time)
@@ -29,12 +30,12 @@ This is a handcrafted list of classic retro games for you challenge your childre
 * [GoldenEye 007](http://en.wikipedia.org/wiki/GoldenEye_007_(1997_video_game))
 
 ##Nintendo Entertainment System (NES)
-- Duck Tales
-- Final Fantasy 1
-- Super Mario
-- Super Mario 2
-- Super Mario 3
-- Teenage Mutant Ninja Turtles.
+- [DuckTales](http://en.wikipedia.org/wiki/DuckTales_(video_game))
+- [Final Fantasy](http://en.wikipedia.org/wiki/Final_Fantasy_(video_game))
+- [Super Mario Bros.](http://en.wikipedia.org/wiki/Super_Mario_Bros.)
+- [Super Mario Bros. 2](http://en.wikipedia.org/wiki/Super_Mario_Bros._2)
+- [Super Mario Bros. 3](http://en.wikipedia.org/wiki/Super_Mario_Bros._3)
+- [Teenage Mutant Ninja Turtles](http://en.wikipedia.org/wiki/Teenage_Mutant_Ninja_Turtles_(NES_game))
 			
 ##Nintendo GameBoy	
 - Pokemon Red
