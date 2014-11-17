@@ -1,5 +1,5 @@
 #Retro Gaming Challenge
-This is a handcrafted list of classic retro games for gamer parents to challenge their children to a caliber of gaming and sense of achievement that is not present in most of the present day gaming ecosystem.
+This is a handcrafted list of classic retro games for gamer parents to challenge their children to a caliber of gaming and sense of achievement that is not present in most of the modern day gaming ecosystem.
 
 * [Retro Gaming Challenge](#challenge)
   * [The Rules](#rules)
@@ -23,6 +23,10 @@ This is a handcrafted list of classic retro games for gamer parents to challenge
 
 ##Arcade
 * [Teenage Mutant Ninja Turtles](http://en.wikipedia.org/wiki/Teenage_Mutant_Ninja_Turtles_(arcade_game))
+* [X-Men](https://en.wikipedia.org/wiki/X-Men_%281992_video_game%29)
+* [The Simpsons Arcade Game](https://en.wikipedia.org/wiki/The_Simpsons_Arcade_Game)
+* [Captain America and the Avengers](https://en.wikipedia.org/wiki/Captain_America_and_The_Avengers)
+* [Alien vs. Predator](https://en.wikipedia.org/wiki/Alien_vs._Predator_%28arcade_game%29)
 
 ##Nintendo 64 (N64)
 * [Banjo-Kazooie](http://en.wikipedia.org/wiki/Banjo-Kazooie)
