@@ -24,10 +24,13 @@ This is a handcrafted list of classic retro games for you challenge your childre
 ##Arcade
 * [Teenage Mutant Ninja Turtles](http://en.wikipedia.org/wiki/Teenage_Mutant_Ninja_Turtles_(arcade_game))
 
-##Nintendo 64 (N64)		
+##Nintendo 64 (N64)
+* [Banjo-Kazooie](http://en.wikipedia.org/wiki/Banjo-Kazooie)
+* [Banjo-Tooie](http://en.wikipedia.org/wiki/Banjo-Tooie)
 * [The Legend of Zelda: Occarina of Time](http://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Ocarina_of_Time)
 * [The Legend of Zelda: Majoras Mask](http://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Majora's_Mask)
 * [GoldenEye 007](http://en.wikipedia.org/wiki/GoldenEye_007_(1997_video_game))
+
 
 ##Nintendo Entertainment System (NES)
 - [DuckTales](http://en.wikipedia.org/wiki/DuckTales_(video_game))
