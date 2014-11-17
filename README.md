@@ -33,6 +33,7 @@ This is a handcrafted list of classic retro games for you challenge your childre
 
 
 ##Nintendo Entertainment System (NES)
+- [Bubble Bobble](http://en.wikipedia.org/wiki/Bubble_Bobble)
 - [DuckTales](http://en.wikipedia.org/wiki/DuckTales_(video_game))
 - [Final Fantasy](http://en.wikipedia.org/wiki/Final_Fantasy_(video_game))
 - [Super Mario Bros.](http://en.wikipedia.org/wiki/Super_Mario_Bros.)
