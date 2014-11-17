@@ -38,9 +38,9 @@ This is a handcrafted list of classic retro games for you challenge your childre
 - [Teenage Mutant Ninja Turtles](http://en.wikipedia.org/wiki/Teenage_Mutant_Ninja_Turtles_(NES_game))
 			
 ##Nintendo GameBoy	
-- Pokemon Red
-- Pokemon Blue
-- Tetris
+- [Pokemon Red](http://en.wikipedia.org/wiki/Pok%C3%A9mon_Red_and_Blue)
+- [Pokemon Blue](http://en.wikipedia.org/wiki/Pok%C3%A9mon_Red_and_Blue)
+- [Tetris](http://en.wikipedia.org/wiki/Tetris)
 
 ##Personal Computer (PC)
 * Doom
