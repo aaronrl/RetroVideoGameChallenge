@@ -61,7 +61,7 @@ This is a handcrafted list of classic retro games for you challenge your childre
 ##Super Nintendo Entertainment System (SNES)	
 - [The Legend of Zelda: A Link To the Past](http://en.wikipedia.org/wiki/The_Legend_of_Zelda:_A_Link_to_the_Past)
 - [Chrono Trigger](http://en.wikipedia.org/wiki/Chrono_Trigger)
-- [Final Fantasy 4](http://en.wikipedia.org/wiki/Final_Fantasy_IV)
+- [Final Fantasy IV](http://en.wikipedia.org/wiki/Final_Fantasy_IV)
 - [Super Mario World](http://en.wikipedia.org/wiki/Super_Mario_World)
 - [Super Mario RPG: Legend of the Seven Stars](http://en.wikipedia.org/wiki/Super_Mario_RPG)
 
