@@ -66,7 +66,7 @@ This is a handcrafted list of classic retro games for you challenge your childre
 - [Super Mario RPG: Legend of the Seven Stars](http://en.wikipedia.org/wiki/Super_Mario_RPG)
 
 ##Sega Dreamcast
-* Skies of Arcadia
+* [Skies of Arcadia](http://en.wikipedia.org/wiki/Skies_of_Arcadia)
 
 ##Sega Genesis		
 * Ecco the Dolphin
