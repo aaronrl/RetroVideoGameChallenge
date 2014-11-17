@@ -33,18 +33,18 @@ This is a handcrafted list of classic retro games for you challenge your childre
 
 
 ##Nintendo Entertainment System (NES)
-- [Bubble Bobble](http://en.wikipedia.org/wiki/Bubble_Bobble)
-- [DuckTales](http://en.wikipedia.org/wiki/DuckTales_(video_game))
-- [Final Fantasy](http://en.wikipedia.org/wiki/Final_Fantasy_(video_game))
-- [Super Mario Bros.](http://en.wikipedia.org/wiki/Super_Mario_Bros.)
-- [Super Mario Bros. 2](http://en.wikipedia.org/wiki/Super_Mario_Bros._2)
-- [Super Mario Bros. 3](http://en.wikipedia.org/wiki/Super_Mario_Bros._3)
-- [Teenage Mutant Ninja Turtles](http://en.wikipedia.org/wiki/Teenage_Mutant_Ninja_Turtles_(NES_game))
+* [Bubble Bobble](http://en.wikipedia.org/wiki/Bubble_Bobble)
+* [DuckTales](http://en.wikipedia.org/wiki/DuckTales_(video_game))
+* [Final Fantasy](http://en.wikipedia.org/wiki/Final_Fantasy_(video_game))
+* [Super Mario Bros.](http://en.wikipedia.org/wiki/Super_Mario_Bros.)
+* [Super Mario Bros. 2](http://en.wikipedia.org/wiki/Super_Mario_Bros._2)
+* [Super Mario Bros. 3](http://en.wikipedia.org/wiki/Super_Mario_Bros._3)
+* [Teenage Mutant Ninja Turtles](http://en.wikipedia.org/wiki/Teenage_Mutant_Ninja_Turtles_(NES_game))
 			
 ##Nintendo GameBoy	
-- [Pokemon Red](http://en.wikipedia.org/wiki/Pok%C3%A9mon_Red_and_Blue)
-- [Pokemon Blue](http://en.wikipedia.org/wiki/Pok%C3%A9mon_Red_and_Blue)
-- [Tetris](http://en.wikipedia.org/wiki/Tetris)
+* [Pokemon Red](http://en.wikipedia.org/wiki/Pok%C3%A9mon_Red_and_Blue)
+* [Pokemon Blue](http://en.wikipedia.org/wiki/Pok%C3%A9mon_Red_and_Blue)
+* [Tetris](http://en.wikipedia.org/wiki/Tetris)
 
 ##Personal Computer (PC)
 * [Doom](http://en.wikipedia.org/wiki/Doom_(1993_video_game))
@@ -66,11 +66,11 @@ This is a handcrafted list of classic retro games for you challenge your childre
 * [Fallout 2](http://en.wikipedia.org/wiki/Fallout_2)
 			
 ##Super Nintendo Entertainment System (SNES)	
-- [The Legend of Zelda: A Link To the Past](http://en.wikipedia.org/wiki/The_Legend_of_Zelda:_A_Link_to_the_Past)
-- [Chrono Trigger](http://en.wikipedia.org/wiki/Chrono_Trigger)
-- [Final Fantasy IV](http://en.wikipedia.org/wiki/Final_Fantasy_IV)
-- [Super Mario World](http://en.wikipedia.org/wiki/Super_Mario_World)
-- [Super Mario RPG: Legend of the Seven Stars](http://en.wikipedia.org/wiki/Super_Mario_RPG)
+* [The Legend of Zelda: A Link To the Past](http://en.wikipedia.org/wiki/The_Legend_of_Zelda:_A_Link_to_the_Past)
+* [Chrono Trigger](http://en.wikipedia.org/wiki/Chrono_Trigger)
+* [Final Fantasy IV](http://en.wikipedia.org/wiki/Final_Fantasy_IV)
+* [Super Mario World](http://en.wikipedia.org/wiki/Super_Mario_World)
+* [Super Mario RPG: Legend of the Seven Stars](http://en.wikipedia.org/wiki/Super_Mario_RPG)
 
 ##Sega Dreamcast
 * [Skies of Arcadia](http://en.wikipedia.org/wiki/Skies_of_Arcadia)
