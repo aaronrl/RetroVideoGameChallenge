@@ -81,9 +81,9 @@ This is a handcrafted list of classic retro games for you challenge your childre
 * Teenage Mutant Ninja Turtles: HyperStoneHeist
 
 ##Sony Playstation
-* Resident Evil
-* Resident Evil 2
-* Final Fantasy 7
+* [Resident Evil](http://en.wikipedia.org/wiki/Resident_Evil_(1996_video_game))
+* [Resident Evil 2](http://en.wikipedia.org/wiki/Resident_Evil_2)
+* [Final Fantasy VII](http://en.wikipedia.org/wiki/Final_Fantasy_VII)
 
 # Contributing
 Please see [CONTRIBUTING](https://github.com/aaronrl/RetroVideoGameChallenge/blob/master/CONTRIBUTING.md) for details.
