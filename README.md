@@ -1,5 +1,5 @@
 #Retro Gaming Challenge
-This is a handcrafted list of classic retro games for you challenge your children to a caliber of gaming and sense of achievement that is not present in most of the present day gaming ecosystem.
+This is a handcrafted list of classic retro games for gamer parents to challenge their children to a caliber of gaming and sense of achievement that is not present in most of the present day gaming ecosystem.
 
 * [Retro Gaming Challenge](#challenge)
   * [The Rules](#rules)
