@@ -43,20 +43,23 @@ This is a handcrafted list of classic retro games for you challenge your childre
 - [Tetris](http://en.wikipedia.org/wiki/Tetris)
 
 ##Personal Computer (PC)
-* Doom
-* Wolfenstein
-* Quake
-* Starcraft
-* Half-Life
-* Warcraft
-* Warcraft II
-* Diablo
-* Diablo 2
-* Baldur's Gate
-* Baldur's Gate 2: Shadows of Amn
-* Planescape Torment
-* Fallout
-* Fallout 2
+* [Doom](http://en.wikipedia.org/wiki/Doom_(1993_video_game))
+* [Doom II: Hell on Earth](http://en.wikipedia.org/wiki/Doom_II:_Hell_on_Earth)
+* [Final Doom](http://en.wikipedia.org/wiki/Final_Doom)
+* [Wolfenstein 3D](http://en.wikipedia.org/wiki/Wolfenstein_3D)
+* [Quake](http://en.wikipedia.org/wiki/Quake_(video_game))
+* [Starcraft](http://en.wikipedia.org/wiki/StarCraft)
+* [Half-Life](http://en.wikipedia.org/wiki/Half-Life_(video_game))
+* [Warcraft: Orc & Humans](http://en.wikipedia.org/wiki/Warcraft:_Orcs_%26_Humans)
+* [Warcraft II: Tides of Darkness](http://en.wikipedia.org/wiki/Warcraft_II:_Tides_of_Darkness)
+* [Diablo](http://en.wikipedia.org/wiki/Diablo_(video_game))
+* [Diablo II](http://en.wikipedia.org/wiki/Diablo_II)
+* [Baldur's Gate](http://en.wikipedia.org/wiki/Baldur's_Gate)
+* [Baldur's Gate II: Shadows of Amn](http://en.wikipedia.org/wiki/Baldur%27s_Gate_II:_Shadows_of_Amn)
+* [Planescape: Torment](http://en.wikipedia.org/wiki/Planescape:_Torment)
+* [Icewind Dale](http://en.wikipedia.org/wiki/Icewind_Dale)
+* [Fallout](http://en.wikipedia.org/wiki/Fallout_(video_game))
+* [Fallout 2](http://en.wikipedia.org/wiki/Fallout_2)
 			
 ##Super Nintendo Entertainment System (SNES)	
 - [The Legend of Zelda: A Link To the Past](http://en.wikipedia.org/wiki/The_Legend_of_Zelda:_A_Link_to_the_Past)
