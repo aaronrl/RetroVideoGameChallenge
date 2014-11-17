@@ -72,16 +72,17 @@ This is a handcrafted list of classic retro games for you challenge your childre
 * [Skies of Arcadia](http://en.wikipedia.org/wiki/Skies_of_Arcadia)
 
 ##Sega Genesis		
-* Ecco the Dolphin
-* Shining Force 2
-* Aladdin
-* Double Dragon
-* Sonic 2
-* BattleToads
-* Comic Zone
-* Xmen 2
-* Lion King
-* Teenage Mutant Ninja Turtles: HyperStoneHeist
+* [Ecco the Dolphin](http://en.wikipedia.org/wiki/Ecco_the_Dolphin)
+* [Shining Force II](http://en.wikipedia.org/wiki/Shining_Force_II)
+* [Aladdin](http://en.wikipedia.org/wiki/Disney%27s_Aladdin_(Virgin_Games))
+* [Double Dragon](http://en.wikipedia.org/wiki/Double_Dragon)
+* [Sonic the Hedgehog](http://en.wikipedia.org/wiki/Sonic_the_Hedgehog_(1991_video_game))
+* [Sonic the Hedgehog 2](http://en.wikipedia.org/wiki/Sonic_the_Hedgehog_2)
+* [BattleToads](http://en.wikipedia.org/wiki/Battletoads_(video_game))
+* [Comix Zone](http://en.wikipedia.org/wiki/Comix_Zone)
+* [X-Men 2: Clone Wars](http://en.wikipedia.org/wiki/X-Men_2:_Clone_Wars)
+* [The Lion King](http://en.wikipedia.org/wiki/The_Lion_King_(video_game))
+* [Teenage Mutant Ninja Turtles: The Hyperstone Heist](http://en.wikipedia.org/wiki/Teenage_Mutant_Ninja_Turtles:_The_Hyperstone_Heist)
 
 ##Sony Playstation
 * [Resident Evil](http://en.wikipedia.org/wiki/Resident_Evil_(1996_video_game))
