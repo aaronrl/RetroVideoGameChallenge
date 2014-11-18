@@ -16,7 +16,7 @@ This is a handcrafted list of classic retro games for gamer parents to challenge
 * [Contributing](#contributing)
 
 #The Rules
-* Player must finish the entirety of the game or reach predefined milestone to recieve established reward(s).
+* Player must finish the entirety of the game or reach predefined milestone to receive established reward(s).
 * Each game has a difficulty level associated.  The difficulty determines the quantity or quality of the prize awarded.
 * Players may use a guide, but forfeit a portion of the reward in exchange.
 
