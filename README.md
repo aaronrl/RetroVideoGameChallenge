@@ -23,11 +23,12 @@ This is a handcrafted list of classic retro games for gamer parents to challenge
 #The Games
 
 ##Arcade
+* [Alien vs. Predator](https://en.wikipedia.org/wiki/Alien_vs._Predator_%28arcade_game%29)
+* [Captain America and the Avengers](https://en.wikipedia.org/wiki/Captain_America_and_The_Avengers)
+* [The Simpsons Arcade Game](https://en.wikipedia.org/wiki/The_Simpsons_Arcade_Game)
 * [Teenage Mutant Ninja Turtles](http://en.wikipedia.org/wiki/Teenage_Mutant_Ninja_Turtles_(arcade_game))
 * [X-Men](https://en.wikipedia.org/wiki/X-Men_%281992_video_game%29)
-* [The Simpsons Arcade Game](https://en.wikipedia.org/wiki/The_Simpsons_Arcade_Game)
-* [Captain America and the Avengers](https://en.wikipedia.org/wiki/Captain_America_and_The_Avengers)
-* [Alien vs. Predator](https://en.wikipedia.org/wiki/Alien_vs._Predator_%28arcade_game%29)
+
 
 ##Nintendo 64 (N64)
 * [Banjo-Kazooie](http://en.wikipedia.org/wiki/Banjo-Kazooie)
