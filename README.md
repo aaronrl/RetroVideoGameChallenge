@@ -1,4 +1,4 @@
-#Retro Gaming Challenge
+# Retro Gaming Challenge
 This is a handcrafted list of classic retro games for gamer parents to challenge their children to a caliber of gaming and sense of achievement that is not present in most of the modern day gaming ecosystem.
 
 * [Retro Gaming Challenge](#challenge)
@@ -15,28 +15,28 @@ This is a handcrafted list of classic retro games for gamer parents to challenge
 	  * [Playstation](#sony-playstation)
 * [Contributing](#contributing)
 
-#The Rules
+# The Rules
 * Player must finish the entirety of the game or reach predefined milestone to receive established reward(s).
 * Each game has a difficulty level associated.  The difficulty determines the quantity or quality of the prize awarded.
 * Player may use a guide, but forfeit a portion of the reward in exchange.
 
-#The Games
+# The Games
 
-##Arcade
+## Arcade
 * [Alien vs. Predator](https://en.wikipedia.org/wiki/Alien_vs._Predator_%28arcade_game%29)
 * [Captain America and the Avengers](https://en.wikipedia.org/wiki/Captain_America_and_The_Avengers)
 * [The Simpsons Arcade Game](https://en.wikipedia.org/wiki/The_Simpsons_Arcade_Game)
 * [Teenage Mutant Ninja Turtles](http://en.wikipedia.org/wiki/Teenage_Mutant_Ninja_Turtles_(arcade_game))
 * [X-Men](https://en.wikipedia.org/wiki/X-Men_%281992_video_game%29)
 
-##Nintendo 64 (N64)
+## Nintendo 64 (N64)
 * [Banjo-Kazooie](http://en.wikipedia.org/wiki/Banjo-Kazooie)
 * [Banjo-Tooie](http://en.wikipedia.org/wiki/Banjo-Tooie)
 * [GoldenEye 007](http://en.wikipedia.org/wiki/GoldenEye_007_(1997_video_game))
 * [The Legend of Zelda: Majoras Mask](http://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Majora's_Mask)
 * [The Legend of Zelda: Occarina of Time](http://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Ocarina_of_Time)
 
-##Nintendo Entertainment System (NES)
+## Nintendo Entertainment System (NES)
 * [Bubble Bobble](http://en.wikipedia.org/wiki/Bubble_Bobble)
 * [DuckTales](http://en.wikipedia.org/wiki/DuckTales_(video_game))
 * [Final Fantasy](http://en.wikipedia.org/wiki/Final_Fantasy_(video_game))
@@ -45,12 +45,12 @@ This is a handcrafted list of classic retro games for gamer parents to challenge
 * [Super Mario Bros. 3](http://en.wikipedia.org/wiki/Super_Mario_Bros._3)
 * [Teenage Mutant Ninja Turtles](http://en.wikipedia.org/wiki/Teenage_Mutant_Ninja_Turtles_(NES_game))
 			
-##Nintendo GameBoy	
+## Nintendo GameBoy	
 * [Pokemon Blue](http://en.wikipedia.org/wiki/Pok%C3%A9mon_Red_and_Blue)
 * [Pokemon Red](http://en.wikipedia.org/wiki/Pok%C3%A9mon_Red_and_Blue)
 * [Tetris](http://en.wikipedia.org/wiki/Tetris)
 
-##Personal Computer (PC)
+## Personal Computer (PC)
 * [Baldur's Gate](http://en.wikipedia.org/wiki/Baldur's_Gate)
 * [Baldur's Gate II: Shadows of Amn](http://en.wikipedia.org/wiki/Baldur%27s_Gate_II:_Shadows_of_Amn)
 * [Diablo](http://en.wikipedia.org/wiki/Diablo_(video_game))
@@ -69,10 +69,10 @@ This is a handcrafted list of classic retro games for gamer parents to challenge
 * [Warcraft II: Tides of Darkness](http://en.wikipedia.org/wiki/Warcraft_II:_Tides_of_Darkness)
 * [Wolfenstein 3D](http://en.wikipedia.org/wiki/Wolfenstein_3D)			
 
-##Sega Dreamcast
+## Sega Dreamcast
 * [Skies of Arcadia](http://en.wikipedia.org/wiki/Skies_of_Arcadia)
 
-##Sega Genesis		
+## Sega Genesis		
 * [Aladdin](http://en.wikipedia.org/wiki/Disney%27s_Aladdin_(Virgin_Games))
 * [BattleToads](http://en.wikipedia.org/wiki/Battletoads_(video_game))
 * [Comix Zone](http://en.wikipedia.org/wiki/Comix_Zone)
@@ -85,12 +85,12 @@ This is a handcrafted list of classic retro games for gamer parents to challenge
 * [Teenage Mutant Ninja Turtles: The Hyperstone Heist](http://en.wikipedia.org/wiki/Teenage_Mutant_Ninja_Turtles:_The_Hyperstone_Heist)
 * [X-Men 2: Clone Wars](http://en.wikipedia.org/wiki/X-Men_2:_Clone_Wars)
 
-##Sony Playstation
+## Sony Playstation
 * [Final Fantasy VII](http://en.wikipedia.org/wiki/Final_Fantasy_VII)
 * [Resident Evil](http://en.wikipedia.org/wiki/Resident_Evil_(1996_video_game))
 * [Resident Evil 2](http://en.wikipedia.org/wiki/Resident_Evil_2)
 
-##Super Nintendo Entertainment System (SNES)
+## Super Nintendo Entertainment System (SNES)
 * [Chrono Trigger](http://en.wikipedia.org/wiki/Chrono_Trigger)
 * [Final Fantasy IV](http://en.wikipedia.org/wiki/Final_Fantasy_IV)	
 * [The Legend of Zelda: A Link To the Past](http://en.wikipedia.org/wiki/The_Legend_of_Zelda:_A_Link_to_the_Past)
